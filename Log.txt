@@ -1,0 +1,3 @@
+Nombre Veterinario :veterinario tales
+Nombre Animal :Animal tales
+Frecuencia Medicamento :Bimestral

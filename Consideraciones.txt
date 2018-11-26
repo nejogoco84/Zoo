@@ -1,0 +1,4 @@
+Seleccione
+Ha tenido problemas de salud en el semestre
+No Ha tenido problemas de salud en el semestre
+Ninguna
